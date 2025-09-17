@@ -16,7 +16,7 @@ Dataset yang digunakan adalah `ecommerce_transactions.csv`, yang berisi 50.000 c
 ## Cara Menjalankan Proyek
 1. Clone repositori ini.
 2. Pastikan semua library di file `requirements.txt` sudah terinstal dengan perintah: `pip install -r requirements.txt`
-3. Buka dan jalankan file `Analisis_ECommerce_Lengkap.ipynb`.
+3. Buka dan jalankan file `Capstone_Project_Data.ipynb`.
 
 ## Ringkasan Temuan
 * **Produk Terlaris**: Kategori Mainan (Toys), Elektronik, dan Olahraga (Sports).
